@@ -1,5 +1,5 @@
 # SemanaOmniStack11
-Projeto realizado na Semana OmniStack 11
+O objetivo desse projeto é replicar a aplicação chamada Be The Hero. Essa aplicação tem como principal função disponibiliar para ONGs cadastrar e solicitar ajuda informando alguns dados dos casos onde ela precisa de contribuição.
 
 # Aula 1 - Conhecendo a OmniStack - 23/03/2020
     - Apresentação da aplicação
