@@ -26,7 +26,6 @@ Projeto realizado na Semana OmniStack 11
     - Adicionando módulo CORS
     - Enviando back-end ao Github.
     
-
 # Aula 3 - Construindo a interface WEB - 25/03/2020
     - 
 
