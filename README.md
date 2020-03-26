@@ -47,3 +47,8 @@ O objetivo desse projeto é replicar a aplicação chamada Be The Hero. Essa apl
 
 # Aula 5 - Funcionalidades avançadas - 27/03/2020
     - 
+
+# Telas do frontend Web
+![](frontend/src/assets/screens.gif)
+
+# Telas do frontend Mobile
