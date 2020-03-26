@@ -3,8 +3,8 @@ O objetivo desse projeto é replicar a aplicação chamada Be The Hero.
 Essa aplicação foi desenvolvida na Semana OmniStack 11 realizada pela Rocketseat. 
 
 ## Objetivos da aplicação
-1 - Criar um sistema web onde as ONGs possam sem cadastrar e solicitar ajuda informando alguns dados dos casos onde ela precisa de contribuição.
-2 - Criar um app mobile para que as pessoas (hérois) que querem contriuir possam descobrir os casos e enviar mensagens de e-mail ou whatsapp para as ONGs.
+    - Criar um sistema web onde as ONGs possam sem cadastrar e solicitar ajuda informando alguns dados dos casos onde ela precisa de contribuição.
+    - Criar um app mobile para que as pessoas (hérois) que querem contriuir possam descobrir os casos e enviar mensagens de e-mail ou whatsapp para as ONGs.
 
 ## Tecnologias utilizadas
     - Backend com NodeJS
@@ -22,7 +22,7 @@ Essa aplicação foi desenvolvida na Semana OmniStack 11 realizada pela Rocketse
     - Criar Projeto com ReactJS
     - Entender sobre React Native e Expo
 
-# Aula 2 - Criando a base da aplicação - 24/03/2020
+## Aula 2 - Criando a base da aplicação - 24/03/2020
     - Node.js e Express
         - Rotas e recursos
         - Métodos HTTP
@@ -36,7 +36,7 @@ Essa aplicação foi desenvolvida na Semana OmniStack 11 realizada pela Rocketse
     - Adicionando módulo CORS
     - Enviando back-end ao Github.
     
-# Aula 3 - Construindo a interface WEB - 25/03/2020
+## Aula 3 - Construindo a interface WEB - 25/03/2020
     - Limpando estrutura
     - Conceitos do React
         - Componente
@@ -52,7 +52,7 @@ Essa aplicação foi desenvolvida na Semana OmniStack 11 realizada pela Rocketse
     - Conectar aplicação à API
     - Enviar projeto ao Github
 
-# Aula 4 - Desenvolvendo o app mobile - 26/03/2020
+## Aula 4 - Desenvolvendo o app mobile - 26/03/2020
     - Instalando o Expo
     - Criando projeto React Native
     - Executando projeto
@@ -76,11 +76,11 @@ Essa aplicação foi desenvolvida na Semana OmniStack 11 realizada pela Rocketse
         - Conexão com API
         - Enviando projeto ao Github
 
-# Aula 5 - Funcionalidades avançadas - 27/03/2020
+## Aula 5 - Funcionalidades avançadas - 27/03/2020
     - 
 
-# Telas do frontend Web
+## Telas do frontend Web
 ![](frontend/src/assets/screens.gif)
 
-# Telas do frontend Mobile
+## Telas do frontend Mobile
 ![](mobile/src/assets/telasmobile.png)
