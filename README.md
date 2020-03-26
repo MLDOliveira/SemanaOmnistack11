@@ -27,7 +27,20 @@ O objetivo desse projeto é replicar a aplicação chamada Be The Hero. Essa apl
     - Enviando back-end ao Github.
     
 # Aula 3 - Construindo a interface WEB - 25/03/2020
-    - 
+    - Limpando estrutura
+    - Conceitos do React
+        - Componente
+        - JSX
+        - Propriedades
+        - Estado
+        - Imutabilidade
+    - Página de login
+    - Configurando rotas
+    - Cadastrar de ONGs
+    - Listagem de casos
+    - Cadastrar de um novo caso
+    - Conectar aplicação à API
+    - Enviar projeto ao Github
 
 # Aula 4 - Desenvolvendo o app mobile - 26/03/2020
     - 
