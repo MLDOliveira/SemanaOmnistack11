@@ -43,7 +43,28 @@ O objetivo desse projeto é replicar a aplicação chamada Be The Hero. Essa apl
     - Enviar projeto ao Github
 
 # Aula 4 - Desenvolvendo o app mobile - 26/03/2020
-    - 
+    - Instalando o Expo
+    - Criando projeto React Native
+    - Executando projeto
+        - No celular
+        - Emuladores
+        - Expo Snack
+    - Diferenças para o ReactJS
+        - Elementos HTML
+        - Semântica
+        - Estilização
+            - Flexbox
+            - Propriedades
+            - Herança de estilos
+            - Estilização própria
+        - Estrutura de pastas
+        - Ícone e Splash Screen
+        - Configurando navegação
+        - Página de casos
+        - Detalhe do caso
+        - Abrindo Whatsapp & E-mail
+        - Conexão com API
+        - Enviando projeto ao Github
 
 # Aula 5 - Funcionalidades avançadas - 27/03/2020
     - 
