@@ -73,3 +73,4 @@ O objetivo desse projeto é replicar a aplicação chamada Be The Hero. Essa apl
 ![](frontend/src/assets/screens.gif)
 
 # Telas do frontend Mobile
+![](mobile/src/assets/telasmobile.png)
