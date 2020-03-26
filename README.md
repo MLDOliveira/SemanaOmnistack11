@@ -1,16 +1,17 @@
 # SemanaOmniStack11
 O objetivo desse projeto é replicar a aplicação chamada Be The Hero. 
 Essa aplicação foi desenvolvida na Semana OmniStack 11 realizada pela Rocketseat. 
-Os principais objetivos desse projeto são:
+
+## Objetivos da aplicação
 1 - Criar um sistema web onde as ONGs possam sem cadastrar e solicitar ajuda informando alguns dados dos casos onde ela precisa de contribuição.
 2 - Criar um app mobile para que as pessoas (hérois) que querem contriuir possam descobrir os casos e enviar mensagens de e-mail ou whatsapp para as ONGs.
 
-# Tecnologias utilizadas
+## Tecnologias utilizadas
     - Backend com NodeJS
     - Frontend com ReacJS
     - Mobile com React-Native
 
-# Aula 1 - Conhecendo a OmniStack - 23/03/2020
+## Aula 1 - Conhecendo a OmniStack - 23/03/2020
     - Apresentação da aplicação
     - Configurar ambiente de desenvolvimento
         - Node.js & NPM
