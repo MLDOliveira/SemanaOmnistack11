@@ -77,7 +77,25 @@ Essa aplicação foi desenvolvida na Semana OmniStack 11 realizada pela Rocketse
         - Enviando projeto ao Github
 
 ## Aula 5 - Funcionalidades avançadas - 27/03/2020
-    - 
+    - Adicionando validação
+    - Adicionando testes
+        - Por que fazer testes?
+        - TDD
+        - Configurando Jest
+        - Tipos de testes
+        - Configurando banco de testes
+        - Instalando supertest
+        - Testando rota de autenticação
+    - Deploy
+        - Alternativas
+        - Qual escolher
+    - Estudos daqui pra frente
+        - Padrões de código: ESLint, Prettier
+        - Autenticação JWT
+        - Styled Components
+    - Dicas para aproveitar melhor
+        - Github
+        - Linkedin
 
 ## Telas do frontend Web
 ![](frontend/src/assets/screens.gif)
