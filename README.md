@@ -80,7 +80,7 @@ Essa aplicação foi desenvolvida na Semana OmniStack 11 realizada pela Rocketse
     - Adicionando validação
     - Adicionando testes
         - Por que fazer testes?
-        - TDD
+        - TDD (Test-driven Development)
         - Configurando Jest
         - Tipos de testes
         - Configurando banco de testes
@@ -90,9 +90,9 @@ Essa aplicação foi desenvolvida na Semana OmniStack 11 realizada pela Rocketse
         - Alternativas
         - Qual escolher
     - Estudos daqui pra frente
-        - Padrões de código: ESLint, Prettier
-        - Autenticação JWT
-        - Styled Components
+        - Padrões de código: ESLint, Prettier (Youtube)
+        - Autenticação JWT (Youtube)
+        - Styled Components (Youtube)
     - Dicas para aproveitar melhor
         - Github
         - Linkedin
